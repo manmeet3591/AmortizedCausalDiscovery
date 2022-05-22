@@ -1,3 +1,13 @@
+# Testing
+
+1. Download the netsim data from https://github.com/manmeet3591/SRU_for_GCI
+
+2. Make an environment as in the instructions
+
+3. In the codebase directory, run train netsim code which has been tested
+
+4. Todo: understand netsim data
+
 # Amortized Causal Discovery
 
 This repo contains the official PyTorch implementation of:
